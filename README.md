@@ -1,7 +1,20 @@
-### Hi there 👋
+## Hi, I'm Tianhao 👋
+
+### Currently I'm...
+- Completing my master thesis at Harvard about the theory of differential privacy under [Prof. Salil Vadhan](https://salil.seas.harvard.edu/). 
+- TFing CS126 (Privacy and Fairness) at Harvard under [Prof. Cynthia Dwork](https://datascience.harvard.edu/people/cynthia-dwork).
+
+### Previously, I've...
+- Worked on several different topics in Computation and Society, including secure and privacy-preserving ML, differential privacy, algorithmic fairness, and data economics. Check out my [google scholar](https://scholar.google.com/citations?user=nvQOtgkAAAAJ&hl=en) for a full list of my works!
+- Obtained my bachelor's degree with CS&STAT double major from University of Waterloo, Ontario, Canada. 
+
+### Find me around the web 🌎
+- Personal website: [scholar.harvard.edu/tianhaowang](https://scholar.harvard.edu/tianhaowang)
+- Linkedin: [tian-hao-wang](https://www.linkedin.com/in/tian-hao-wang/)
+
 
 <!--
-**TIANHAO-WANG/TIANHAO-WANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**catyeo18/catyeo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
