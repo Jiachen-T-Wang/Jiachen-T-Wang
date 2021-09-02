@@ -1,7 +1,7 @@
 ## Hi, I'm Tianhao 👋
 
 ### Currently I'm...
-- Preparing for my PhD life at Princeton!
+- Starting my PhD life at Princeton!
 
 ### Previously, I've...
 - Completed my master thesis at Harvard about theory of differential privacy under [Prof. Salil Vadhan](https://salil.seas.harvard.edu/). 
