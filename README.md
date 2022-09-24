@@ -1,7 +1,7 @@
 ## Hi, I'm Tianhao 👋
 
 ### Currently I'm...
-- a first-year PhD student at Princeton, working on differential privacy and data valuation. 
+- a second-year PhD student at Princeton, working on differential privacy and data valuation. 
 
 ### Previously, I've...
 - Completed my master thesis at Harvard about theory of differential privacy under [Prof. Salil Vadhan](https://salil.seas.harvard.edu/). 
