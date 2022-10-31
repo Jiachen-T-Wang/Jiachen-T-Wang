@@ -10,6 +10,6 @@
 - Obtained my bachelor's degree with CS&STAT double major from University of Waterloo, Canada. 
 
 ### Find me around the web 🌎
-- Personal website: [tianhaowang.netlify.app/](https://tianhaowang.netlify.app/)
-- Linkedin: [tian-hao-wang](https://www.linkedin.com/in/tian-hao-wang/)
+- [Personal website](https://tianhaowang.netlify.app/)
+- [Linkedin](https://www.linkedin.com/in/tian-hao-wang/)
 
