@@ -5,8 +5,8 @@
 - **starting from Sept 2022, I changed my publishing name from *Tianhao Wang* to *Jiachen T. Wang***.
 
 ### Previously, I've...
-- Completed my master thesis at Harvard about theory of differential privacy under [Prof. Salil Vadhan](https://salil.seas.harvard.edu/). 
-- Obtained my bachelor's degree with CS&STAT double major from University of Waterloo, Canada. 
+- Obtained my master's degree with thesis option at Harvard, advised by [Prof. Salil Vadhan](https://salil.seas.harvard.edu/). 
+- Obtained my bachelor's degree in statistics and computer science from University of Waterloo, Canada. 
 
 ### Find me around the web 🌎
 - [Personal website](https://tianhaowang.netlify.app/)
