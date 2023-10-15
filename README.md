@@ -1,7 +1,7 @@
 ## Hi, I'm Jiachen 👋
 
 ### Currently I'm...
-- a second-year PhD student at Princeton, working on differential privacy and data valuation. 
+- a third-year PhD student at Princeton, working on differential privacy and data valuation. 
 - **starting from Sept 2022, I changed my publishing name from *Tianhao Wang* to *Jiachen T. Wang***.
 
 ### Previously, I've...
